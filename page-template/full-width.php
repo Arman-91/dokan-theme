@@ -2,7 +2,7 @@
 /**
  * The Template for displaying a full width page.
  *
- * Template Name: Full-width Page
+ * Template Name: online Shop
  *
  * @package dokan
  * @package dokan - 2013 1.0
